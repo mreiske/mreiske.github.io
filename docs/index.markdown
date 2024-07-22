@@ -6,7 +6,7 @@ permalink: /index
 
 Hi there, welcome to my website!
 
-<img align="right" src="./images/IMG_3938.jpeg" width="200" height="600" >
+<img align="right" src="./images/IMG_3938.jpeg" alt="IMG_3938" width="200" height="600" >
 
 I am a PhD-Candidate at the Berlin School of Economics - Humboldt University under the supervision of [Nikolaus Wolf](https://sites.google.com/site/nikolauswolf01). 
 

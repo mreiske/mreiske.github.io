@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+e# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -23,7 +23,7 @@ email: your-email@example.com
 description: Still testing
 domain: mreiske.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mreiske.github.io # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /docs/bundle/      # place folder name if the site is served in a subfolder
+baseurl: mreiske.github.io/docs/bundle/      # place folder name if the site is served in a subfolder
 
 # Build settings
 theme: minima

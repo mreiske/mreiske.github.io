@@ -7,7 +7,7 @@ permalink: /index
 
 
 Hi, welcome to my website!
-<img align="right" src=".assets/images/IMG_3938.jpeg" width="50" height="150" >
+<img align="right" src="https://github.com/mreiske/mreiske.github.io/blob/main/docs/assets/images/IMG_3938.jpeg" width="200" height="600" >
 I am a PhD-Candidate at the Berlin School of Economics - Humboldt University under the supervision of [Nikolaus Wolf](https://sites.google.com/site/nikolauswolf01). 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
 You can find my CV [here](https://www.dropbox.com/scl/fi/r8vwb4pqgi8mwggv4g7s9/CV-Monique-Reiske.pdf?rlkey=4gwxd59doowmeqeio3z0ackgv&dl=0).

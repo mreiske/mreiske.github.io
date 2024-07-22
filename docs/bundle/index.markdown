@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-{% include_relative docs/bundle/about.md %}
+This is the index page. 

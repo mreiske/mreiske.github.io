@@ -10,7 +10,7 @@ Hi, welcome to my website!
 
 <img align="right" src="https://github.com/mreiske/mreiske.github.io/blob/main/docs/bundle/IMG_3938.jpeg">
 
-![Photo](/mreiske.github-io/docs/assets/IMG_3938.jpeg)
+![Photo](./assets/IMG_3938.jpeg)
 
 I am a PhD-Candidate at the Berlin School of Economics - Humboldt University under the supervision of [Nikolaus Wolf](https://sites.google.com/site/nikolauswolf01). 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 

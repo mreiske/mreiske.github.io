@@ -23,7 +23,7 @@ email: monique.reiske@hu-berlin.de
 description: Welcome to my website!
 domain: mreiske.github.io/index       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mreiske.github.io/index # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: mreiske.github.io/docs/bundle/      # place folder name if the site is served in a subfolder
+baseurl: mreiske.github.io/docs/      # place folder name if the site is served in a subfolder
 
 # Build settings
 # remote_theme: pages-themes/cayman@v0.2.0

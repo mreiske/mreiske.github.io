@@ -15,7 +15,12 @@ In my dissertation, I investigate how economic deprivation and party strategies,
 
 You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopener noreferrer"> CV here</a> and get in contact at <a href="mailto:monique.reiske@hu-berlin.de">monique.reiske@hu-berlin.de</a>.
 
+***
+***
+
 ### Research in progress
+
+***
 
 #### Losing the country: Debt, deflation, and the rural rise of the Nazi party (with Thilo Albers and Felix Kersting)
 * <details>

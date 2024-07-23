@@ -13,6 +13,11 @@ I am a PhD-Candidate at the Berlin School of Economics - Humboldt University und
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
 
 You can find my CV [here](assets/CV%20Monique%20Reiske.pdf).
+
+
+You can find my CV <a href="mreiske.github.io/docs/assets/CV%20Monique%20Reiske.pdf" target="_blank">here.</a>
+
+
 Please feel free to reach out at **monique.reiske@hu-berlin.de**!
 
 ## Research in progress

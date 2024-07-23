@@ -4,7 +4,7 @@ title: Monique Reiske Website
 permalink: /index
 ---
 
-Hi there, welcome to my website!
+Hello, welcome to my website!
 
 <img align="right" src="./docs/assets/images/IMG_3938.jpeg" alt="IMG_3938" width="130" height="180" >
 

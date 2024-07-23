@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cayman
 title: Home
 permalink: /index
 ---

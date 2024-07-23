@@ -15,7 +15,7 @@ My research interests lie at the intersection of quantitative economic history a
 You can find my CV [here](assets/CV%20Monique%20Reiske.pdf).
 
 
-You can find my CV <a href="mreiske.github.io/docs/assets/CV%20Monique%20Reiske.pdf" target="_blank">here.</a>
+You can find my CV <a href="mreiske.github.io/docs/CV%20Monique%20Reiske.pdf" target="_blank">here.</a>
 
 
 Please feel free to reach out at **monique.reiske@hu-berlin.de**!

@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Monique Reiske
-# email: monique.reiske@hu-berlin.de
-description: I am a quantitative economic historian with an interest in political economy. Welcome to my website!
+email: monique.reiske@hu-berlin.de
+description: I am a quantitative economic historian with an interest in political economy.
 domain: mreiske.github.io/index       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://mreiske.github.io/index" # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: mreiske.github.io/docs/      # place folder name if the site is served in a subfolder

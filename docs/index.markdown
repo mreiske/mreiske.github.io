@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Monique Reiske Website
+title: Monique Reiske
 permalink: /index
 ---
 
 Hello, welcome to my website!
 
-<img align="right" src="./docs/assets/images/IMG_3938.jpeg" alt="IMG_3938" width="130" height="180" >
+<img align="right" src="./assets/images/IMG_3938.jpeg" alt="IMG_3938" width="130" height="180" >
 
 I am a PhD-Candidate at the Berlin School of Economics - Humboldt University under the supervision of [Nikolaus Wolf](https://sites.google.com/site/nikolauswolf01). 
 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
 
 
-You can find my CV <a href="./docs/pdfs/CV_Monique_Reiske.pdf" target="_blank">here.</a>
+You can find my CV <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank">here.</a>
 
 
 Please feel free to reach out at **monique.reiske@hu-berlin.de**!

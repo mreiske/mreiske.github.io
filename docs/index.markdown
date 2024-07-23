@@ -1,6 +1,6 @@
 ---
-layout: cayman
-title: Home
+layout: default
+title: Monique Reiske Website
 permalink: /index
 ---
 

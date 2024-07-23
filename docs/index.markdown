@@ -23,8 +23,7 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 ***
 
 #### Losing the country: Debt, deflation, and the rural rise of the Nazi party (with Thilo Albers and Felix Kersting)
-<details>
-    <summary>DRAFT COMING SOON: Abstract</summary>
+<details><summary>DRAFT COMING SOON: Abstract</summary>
     <p>We show how the combination of two economic crises triggered the rise of the NSDAP in rural parts of Weimar Germany. First, rising import competition after 1925, due to exogenous productivity increases in the Americas, drove up agricultural debt and frustration with the democratic political system. Second, price declines during the Great Depression caused debt deflation, making the debt unsustainable and leading to foreclosures. While traditional agricultural interest parties lost their constituents' loyalty, the NSDAP gained support in areas more affected by this economic deprivation.</p>
 </details>
 

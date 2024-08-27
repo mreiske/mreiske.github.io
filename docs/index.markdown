@@ -22,10 +22,9 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 
 ***
 
-#### Losing the country: Debt, deflation, and the rural rise of the Nazi party
-##### with Thilo Albers and Felix Kersting 
+#### Losing the country: Debt, deflation, and the rural rise of the Nazi party (with Thilo Albers and Felix Kersting) 
 <details><summary>DRAFT COMING SOON: Abstract</summary>
-    <p>Using interwar German agriculture as a case, this paper explores the economic and political cost of debt deflation. We first characterize the change in farmers' leverage by employing a decomposition, documenting systematic differences of its drivers between the period of debt accumulation (1924-1928) and the period of debt deflation (1929-1932).  We construct exogenous exposure measures to debt uptake and deflation for the two respective periods, which allow us to  elicit their impact on economic destitution and voting. While rapid debt accumulation triggered discontent,  the Nazi party was only able to unify the rural protest vote in the 1930s. We show that the exposure to debt deflation can explain both the cross-sectional variation as well as the NSDAP's higher vote share among the rural vis-à-vis the urban electorate. In light of the failed economic policy attempts of centrist parties before the Nazi's ascension to power, we posit that the only viable solution to the debt deflation problem would have been a devaluation of the currency. </p>
+    <p>Using interwar German agriculture as a case, this paper explores the economic and political cost of debt deflation. We first characterize the change in farmers' leverage by employing a decomposition, documenting systematic differences of its drivers between the period of debt accumulation (1924-1928) and the period of debt deflation (1929-1932).  We construct exogenous exposure measures to debt uptake and deflation for the two respective periods, which allow us to  elicit their impact on economic destitution and voting. While rapid debt accumulation triggered discontent,  the Nazi party was only able to unify the rural protest vote in the 1930s. We show that the exposure to debt deflation can explain both the cross-sectional variation as well as the NSDAP's higher vote share among the rural vis-à-vis the urban electorate. In light of the failed economic policy attempts of centrist parties before the Nazis' ascension to power, we posit that the only viable solution to the debt deflation problem would have been a devaluation of the currency. </p>
 </details>
 
 ***

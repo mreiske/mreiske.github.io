@@ -22,9 +22,10 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 
 ***
 
-#### Losing the country: Debt, deflation, and the rural rise of the Nazi party (with Thilo Albers and Felix Kersting) 
-<details><summary>DRAFT COMING SOON: Abstract</summary>
-    <p align="justify">Using interwar German agriculture as a case, this paper explores the economic and political cost of debt deflation. We first characterize the change in farmers' leverage by employing a decomposition, documenting systematic differences of its drivers between the period of debt accumulation (1924-1928) and the period of debt deflation (1929-1932).  We construct exogenous exposure measures to debt uptake and deflation for the two respective periods, which allow us to  elicit their impact on economic destitution and voting. While rapid debt accumulation triggered discontent,  the Nazi party was only able to unify the rural protest vote in the 1930s. We show that the exposure to debt deflation can explain both the cross-sectional variation as well as the NSDAP's higher vote share among the rural vis-à-vis the urban electorate. In light of the failed economic policy attempts of centrist parties before the Nazis' ascension to power, we posit that the only viable solution to the debt deflation problem would have been a devaluation of the currency. </p>
+#### <a href="https://rationality-and-competition.de/wp-content/uploads/discussion_paper/511.pdf" target="_blank" rel="noopener noreferrer"> Losing the country: Debt, deflation, and the rural rise of the Nazi party </a> 
+with <a heref="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting </a>
+<details><summary> Abstract </summary>
+    <p align="justify"> Using interwar German agriculture as a case, this paper explores the political cost of debt deflation which we characterize with farmers' leverage ratios. Primary deficits drove their increase during 1924-1928, but deflation pushed them to unsustainable levels during 1929-1932. We construct corresponding exogenous county-level exposure measures and show their effect on economic distress as well as political radicalization. Our results suggest that debt deflation increased the Nazi party's rural vote share by over 8 percentage points relative to a counterfactual baseline scenario and was thus a necessary condition for its rural dominance and ascension to parliamentary power. </p>
 </details>
 
 ***

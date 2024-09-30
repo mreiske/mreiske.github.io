@@ -23,7 +23,7 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 ***
 
 #### <a href="https://rationality-and-competition.de/wp-content/uploads/discussion_paper/511.pdf" target="_blank" rel="noopener noreferrer"> Losing the country: Debt, deflation, and the rural rise of the Nazi party </a> 
-with <a heref="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting </a>
+with <a href="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting </a>
 <details><summary> Abstract </summary>
     <p align="justify"> Using interwar German agriculture as a case, this paper explores the political cost of debt deflation which we characterize with farmers' leverage ratios. Primary deficits drove their increase during 1924-1928, but deflation pushed them to unsustainable levels during 1929-1932. We construct corresponding exogenous county-level exposure measures and show their effect on economic distress as well as political radicalization. Our results suggest that debt deflation increased the Nazi party's rural vote share by over 8 percentage points relative to a counterfactual baseline scenario and was thus a necessary condition for its rural dominance and ascension to parliamentary power. </p>
 </details>

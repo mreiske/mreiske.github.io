@@ -8,10 +8,11 @@ Hello, welcome to my website!
 
 <img align="right" src="./assets/images/IMG_3938.jpeg" alt="IMG_3938" width="150" height="210" >
 
-I am currently a PhD-Candidate at the Berlin School of Economics - Humboldt University Berlin - under the supervision of <a href="https://sites.google.com/site/nikolauswolf01" target="_blank" rel="noopener noreferrer"> Nikolaus Wolf</a>.
+I am currently a post-doctoral researcher (akademische Rätin) at the University of Münster and a member of EVIDEM - Evidence on Democracy and Markets Lab. 
 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
-In my dissertation, I investigate how economic deprivation and party strategies, such as targeted repressive violence, contributed to the rise of the Nazi party before 1933.
+
+I obtained my PhD at the Berlin School of Economics - Humboldt University Berlin - under the supervision of <a href="https://sites.google.com/site/nikolauswolf01" target="_blank" rel="noopener noreferrer"> Nikolaus Wolf</a> and <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank" rel="noopener noreferrer"> Sulin Sardoschau</a>. In my dissertation, I investigate how economic deprivation and party strategies, such as targeted repressive violence, contributed to the rise of the Nazi party before 1933.
 
 You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopener noreferrer"> CV here</a> and get in contact at <a href="mailto:reiskemonique@gmail.com">reiskemonique@gmail.com</a>.
 

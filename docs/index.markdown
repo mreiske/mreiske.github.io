@@ -8,7 +8,7 @@ Hello, welcome to my website!
 
 <img align="right" src="./assets/images/IMG_3938.jpeg" alt="IMG_3938" width="150" height="210" >
 
-I am currently a post-doctoral researcher (akademische Rätin) at the University of Münster and a member of EVIDEM - Evidence on Democracy and Markets Lab. 
+I am currently a post-doctoral researcher (akademische Rätin) at the University of Münster and a member of <a href="https://evi-dem.github.io//" target="_blank" rel="noopener noreferrer"> EVIDEM - Evidence on Democracy and Markets Lab</a>.
 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
 

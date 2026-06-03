@@ -23,8 +23,8 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 
 ***
 
-### <a href="pdfs/Albers Kersting Reiske (2026) Debt deflation and the rise of the Nazi party.pdf" target="_blank" rel="noopener noreferrer"> Debt Deflation and the Rise of the Nazi Party </a>  
-### with <a href="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting </a> 
+### <a href="https://cepr.org/publications/dp21487" target="_blank" rel="noopener noreferrer"> Debt Deflation and the Rise of the Nazi Party [CEPR DP No. 21487, 2026]</a>  
+#### with <a href="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting</a>, R&R at Explorations in Economic History
 
 <a href="https://rationality-and-competition.de/wp-content/uploads/discussion_paper/511.pdf" target="_blank" rel="noopener noreferrer" style="font-size: smaller;"> [CRC DP No. 511, 2024] </a>
 

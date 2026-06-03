@@ -23,13 +23,13 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 
 ***
 
-### <a href="pdfs/Albers Kersting Reiske (2025) Political costs of debt deflation.pdf" target="_blank" rel="noopener noreferrer"> The political costs of debt deflation: Agricultural crises and the rise of the Nazi party </a>  
+### <a href="pdfs/Albers Kersting Reiske (2026) Debt deflation and the rise of the Nazi party.pdf" target="_blank" rel="noopener noreferrer"> Debt Deflation and the Rise of the Nazi Party </a>  
 ### with <a href="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting </a> 
 
 <a href="https://rationality-and-competition.de/wp-content/uploads/discussion_paper/511.pdf" target="_blank" rel="noopener noreferrer" style="font-size: smaller;"> [CRC DP No. 511, 2024] </a>
 
 <details><summary> Abstract </summary>
-    <p align="justify"> Using interwar German agriculture as a case, this paper explores the political costs of debt deflation, which we characterize with farmers' leverage ratios. Primary deficits drove their increase from 1924 to 1928, but deflation pushed them to unsustainable levels between 1929 and 1932. We construct corresponding exogenous county-level exposure measures and show their effect on economic distress as well as political radicalization. Our results suggest that debt deflation increased the Nazi party's rural vote share by 8 percentage points relative to a counterfactual baseline scenario and was thus a necessary condition for its rural dominance and ascension to parliamentary power. </p>
+    <p align="justify"> This paper examines the political consequences of debt deflation in interwar Germany. Debt deflation arises when falling prices increase the real burden of pre-existing nominal liabilities. We study this mechanism in the agricultural sector, where farmers had accumulated substantial nominal debt before 1929. In the face of collapsing agricultural prices and falling revenues, the high nominal interest burden made this debt unsustainable. To isolate the political effect of this shock, we exploit pre-crisis differences in agricultural debt and product mix across counties to construct a measure of debt deflation intensity. Our main finding is that rural debt deflation substantially increased support for the Nazi party, reflecting substitution away from agrarian and conservative parties. A one-standard-deviation increase in exposure explains a fifth of one standard deviation in the Nazi party vote share rise between 1928 and 1932. The effect persists after controlling for income shortfalls, unemployment, and austerity, indicating that debt deflation drove radicalization independently of concurrent channels. A counterfactual exercise suggests that without debt deflation, the Nazi party’s national vote share would have been insufficient to prevent less extreme parties from forming a majority coalition against it, rendering rural debt deflation a plausibly necessary condition for Hitler’s rise to power. </p>
 </details>
 
 ***

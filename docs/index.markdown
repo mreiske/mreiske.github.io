@@ -23,7 +23,7 @@ You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopen
 
 ***
 
-### <a href="https://doi.org/10.1016/j.eeh.2026.101787" target="_blank" rel="noopener noreferrer" style="font-size: smaller;">Debt Deflation and the Rise of the Nazi Party</a>
+### <a href="https://doi.org/10.1016/j.eeh.2026.101787" target="_blank" rel="noopener noreferrer";">Debt Deflation and the Rise of the Nazi Party</a>
 #### with <a href="https://sites.google.com/site/tnhalbers/" target="_blank" rel="noopener noreferrer"> Thilo Albers </a> and <a href="https://felixkersting.mystrikingly.com/" target="_blank" rel="noopener noreferrer"> Felix Kersting</a>, Explorations in Economic History, 2026.
 
 <a href="https://doi.org/10.7910/DVN/QI2GRV" target="_blank" rel="noopener noreferrer" style="font-size: smaller;">[Replication package]</a> 

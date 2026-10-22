@@ -12,7 +12,7 @@ I am currently a post-doctoral researcher (akademische Rätin) at the University
 
 My research interests lie at the intersection of quantitative economic history and political economy, with a particular focus on the rise of political extremism in 20th-century Germany. 
 
-I obtained my PhD at the Berlin School of Economics - Humboldt University Berlin - under the supervision of <a href="https://sites.google.com/site/nikolauswolf01" target="_blank" rel="noopener noreferrer"> Nikolaus Wolf</a> and <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank" rel="noopener noreferrer"> Sulin Sardoschau</a>. In my dissertation, I investigate how economic deprivation and party strategies, such as targeted repressive violence, contributed to the rise of the Nazi party before 1933.
+I obtained my PhD at the Berlin School of Economics - Humboldt University Berlin - under the supervision of <a href="https://sites.google.com/site/nikolauswolf01" target="_blank" rel="noopener noreferrer"> Nikolaus Wolf</a> and <a href="https://sites.google.com/view/sulinsardoschau/home" target="_blank" rel="noopener noreferrer"> Sulin Sardoschau</a>. In my <a href="https://edoc.hu-berlin.de/items/f0cb0cc8-316d-4783-b2f7-83e387335816" target="_blank" rel="noopener noreferrer"> dissertation</a>, I investigate how economic deprivation and party strategies, such as targeted repressive violence, contributed to the rise of the Nazi party before 1933.
 
 You can find my <a href="pdfs/CV_Monique_Reiske.pdf" target="_blank" rel="noopener noreferrer"> CV here</a> and get in contact at <a href="mailto:reiskemonique@gmail.com">reiskemonique@gmail.com</a>.
 
